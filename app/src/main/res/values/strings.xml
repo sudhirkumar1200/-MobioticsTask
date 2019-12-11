@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskMobiotics</string>
+    <string name="crypto_string">Crypto String</string>
+    <string name="encryption">Encrypt</string>
+    <string name="decryption">Decrypt</string>
+    <string name="submit">Submit</string>
+</resources>
